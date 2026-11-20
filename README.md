@@ -1,1 +1,1 @@
-# yazici-holding-web-sitesi
+Yazıcı Holding Kurumsal WEB Sitesi
